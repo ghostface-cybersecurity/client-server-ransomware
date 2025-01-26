@@ -9,7 +9,8 @@
 _________________________________________________________________________________________
                                           ABOUT
 _________________________________________________________________________________________
-Description: 
+Description: A ransomware that encrypts one file and contacts the server for decryption. 
+             Prototype of a modern ransomware. 
 Program: ransomware (client-server) / a prototype of a modern ransomware
 Languages: Python 3.12.7
            Bash 5.2.32
