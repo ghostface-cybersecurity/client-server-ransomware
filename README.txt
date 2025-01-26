@@ -11,7 +11,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
 Description: A ransomware that encrypts one file and contacts the server for decryption. 
              Prototype of a modern ransomware. 
-Program: ransomware (client-server) / a prototype of a modern ransomware
+Program: Ransomware (client-server) / A prototype of a modern ransomware
 Languages: Python 3.12.7
 Tested on: Linux 6.11.2
 Author: ghostface-cybersecuroty
