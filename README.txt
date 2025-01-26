@@ -18,7 +18,7 @@ Tested on: Linux 6.11.2
 Author: ghostface-cybersecuroty
 
 _________________________________________________________________________________________
-                                           RUN
+                                        PROGRAM LAUNCH
 _________________________________________________________________________________________
 // First, start a server that will decrypt files
 python3 ransomware_server.py
