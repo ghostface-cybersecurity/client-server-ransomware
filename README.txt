@@ -41,7 +41,7 @@ python3 ransomware_server.py
 // Then create a simple text file that will be encrypted
 echo "hello ransomware" > file.txt
 // Then you can run a client that will encrypt the file
-// Examle: python3 ransomware.py <host server> <port server> <file>
+// Examle: python3 ransomware.py <host> <port> <file>
 python3 ransomware.py 0.0.0.0 8000 file.py
 
 _________________________________________________________________________________________
